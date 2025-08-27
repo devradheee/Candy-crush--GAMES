@@ -21,4 +21,3 @@ This project recreates the classic puzzle game where players swap candies to mat
 
 ---
 
-## 📂 Project Structure
